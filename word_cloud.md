@@ -17,9 +17,9 @@ alfabéticamente para determinar su prominencia relativa.
 
 ## Dataset
 
-He utilizado el siguiente dataset extraído de Kaggle:
+He utilizado el siguiente dataset extraído de Kaggle
 	https://www.kaggle.com/datasets/michelhatab/hotel-reviews-bookingcom
-	
+
 
 * **[Descargar el Dataset (CSV, 15MB)](./assets/datasets/booking_reviews.csv)**
 
