@@ -16,13 +16,17 @@ alfabéticamente para determinar su prominencia relativa.
 
 ## Dataset
 
-He utilizado el siguiente dataset extraído de Kaggle
+He utilizado el siguiente dataset extraído de Kaggle:
 	https://www.kaggle.com/datasets/michelhatab/hotel-reviews-bookingcom
 
 
-* **[Descargar el Dataset (CSV, 15MB)](./assets/datasets/booking_reviews.csv)**
+* **[Descargar el Dataset (CSV, 49,5MB)](./assets/datasets/booking_reviews.csv)**
 
----
+## Código Python
+
+Se utiliza el siguiente código para generar el gráfico:
+
+* **[Descargar el fichero Python (.py)](./assets/code/generacion_word_cloud_booking.py)**
 
 ## Gráficos y Visualizaciones
 
