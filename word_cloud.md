@@ -2,6 +2,7 @@
 # Esto se llama "Front Matter", son las instrucciones para Jekyll
 layout: page
 title: Técnica 1 - Word Cloud
+---
 
 ## Descripción de la técnica
 
@@ -12,8 +13,6 @@ electorales). Los tags suelen ser palabras individuales, y la importancia de cad
 tag se muestra con el tamaño de la fuente o el color. Este formato es útil para
 percibir rápidamente los términos más prominentes y para localizar un término
 alfabéticamente para determinar su prominencia relativa.
-
----
 
 ## Dataset
 
