@@ -2,6 +2,7 @@
 # Esto se llama "Front Matter", son las instrucciones para Jekyll
 layout: page
 title: Técnica 1 - Word Cloud
+permalink: /word_cloud/
 ---
 
 ## Descripción de la técnica

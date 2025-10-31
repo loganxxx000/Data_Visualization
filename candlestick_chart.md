@@ -2,6 +2,7 @@
 # Esto se llama "Front Matter", son las instrucciones para Jekyll
 layout: page
 title: Técnica 2 - Candlestick Chart
+permalink: /candlestick_chart/
 ---
 
 ## Descripción de la técnica

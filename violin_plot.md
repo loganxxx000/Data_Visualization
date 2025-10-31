@@ -2,6 +2,7 @@
 # Esto se llama "Front Matter", son las instrucciones para Jekyll
 layout: page
 title: Técnica 3 - Violin Plot
+permalink: /violin_plot/
 ---
 
 ## Descripción de la técnica
