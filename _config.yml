@@ -22,7 +22,7 @@ title: PEC2 - Estudio de técnicas de visualización de datos
 email: ivfergal@uoc.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Se publican los enlaces a las tres técnicas tratadas en esta PEC.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: /Data_Visualization" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
